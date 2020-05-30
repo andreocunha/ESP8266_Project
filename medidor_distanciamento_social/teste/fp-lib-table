@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name circuito_distanciamento_social)(type KiCad)(uri "$(KIPRJMOD)/circuito_distanciamento_social.pretty")(options "")(descr ""))
-)
